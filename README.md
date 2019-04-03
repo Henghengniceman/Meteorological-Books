@@ -173,10 +173,3 @@
 欢迎 push!
 
 喜欢就star❤️一下吧！
-
-
-## 和我交流
-
-| 二维码 |
-| --- |
-|![](image/myWeChat-QRCode.jpg) |
