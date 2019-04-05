@@ -51,6 +51,9 @@
 ## Atmospheric-Sounding(大气探测）
 - [Fundamentals-of-Remote-Sensing](Atmospheric-Sounding/Fundamentals-of-Remote-Sensing.pdf)
 - [多普勒天气雷达原理与业务应用](Atmospheric-Sounding/多普勒天气雷达原理与业务应用.pdf)
+- [大气物理与大气探测学](Atmospheric-Sounding/大气物理与大气探测学.pdf)
+- [](Atmospheric-Sounding/.pdf)
+- [](Atmospheric-Sounding/.pdf)
 - [](Atmospheric-Sounding/.pdf)
 - [](Atmospheric-Sounding/.pdf)
 
