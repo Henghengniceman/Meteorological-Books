@@ -5,7 +5,7 @@
 
 ---
 
-![](image/Repository-layers-of-the-atmosphere.jpg)
+![](https://ws1.sinaimg.cn/large/007aIiGTly1g2aaoi8x8pj30zk0k044p.jpg)
 
 
 ## Atmospheric Physics（大气物理）
