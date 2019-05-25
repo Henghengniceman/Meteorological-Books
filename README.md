@@ -2,7 +2,9 @@
 > 作者：[zhangzhe](https://philosopherz.github.io/)  
   邮件： zhangzhe@mail.iap.ac.cn & 1348729333@qq.com  
   本内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。  
-
+  **但强烈欢迎你推荐给你认为需要的人——“奇文共欣赏，疑义相与析”**  
+  “我有一壶酒，足以慰风尘。尽倾江海里，赠饮天下人”
+  
 ---
 
 ![](https://ws1.sinaimg.cn/large/007aIiGTly1g2aaoi8x8pj30zk0k044p.jpg)
