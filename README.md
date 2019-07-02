@@ -137,7 +137,7 @@
 
 
 ## Numerical weather prediction (数值天气预报）
-- [数值天气预报的数学物理基础-1979-曾庆存](Numerical-weather-prediction/链接：https://pan.baidu.com/s/1VPGEodYMSc0gGF_6-AjWSA ) 提取码：2136
+- [数值天气预报的数学物理基础-1979-曾庆存](https://pan.baidu.com/s/1VPGEodYMSc0gGF_6-AjWSA ) 提取码：2136
 - [长期数值天气预报（修订本）](Numerical-weather-prediction/长期数值天气预报（修订本）.pdf)
 - [数值模式中的谱方法](Numerical-weather-prediction/数值模式中的谱方法.pdf)
 - [数值预报与数值模拟方法-周任君博士](Numerical-weather-prediction/数值预报与数值模拟方法-周任君博士.pdf)
