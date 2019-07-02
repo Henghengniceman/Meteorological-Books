@@ -4,7 +4,7 @@
   本内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。  
   **但强烈欢迎你推荐给你认为需要的人——“奇文共欣赏，疑义相与析”**  
   “我有一壶酒，足以慰风尘。尽倾江海里，赠饮天下人”
-  
+
 ---
 
 ![](https://ws1.sinaimg.cn/large/007aIiGTly1g2aaoi8x8pj30zk0k044p.jpg)
@@ -137,7 +137,7 @@
 
 
 ## Numerical weather prediction (数值天气预报）
-- [数值天气预报的数学物理基础-1979-曾庆存](Numerical-weather-prediction/数值天气预报的数学物理基础-1979-曾庆存.pdf)
+- [数值天气预报的数学物理基础-1979-曾庆存](Numerical-weather-prediction/链接：https://pan.baidu.com/s/1VPGEodYMSc0gGF_6-AjWSA ) 提取码：2136
 - [长期数值天气预报（修订本）](Numerical-weather-prediction/长期数值天气预报（修订本）.pdf)
 - [数值模式中的谱方法](Numerical-weather-prediction/数值模式中的谱方法.pdf)
 - [数值预报与数值模拟方法-周任君博士](Numerical-weather-prediction/数值预报与数值模拟方法-周任君博士.pdf)
