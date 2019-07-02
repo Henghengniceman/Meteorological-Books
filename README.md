@@ -14,7 +14,7 @@
 - [C.-Donald-Ahrens-Meteorology-Today-9th-Edition](Atmospheric-physics/[C._Donald_Ahrens]_Meteorology_Today-9th-Edition.pdf)
 - [C.-Donald-Ahrens-Meteorology-Today-An Introduction to Weather, Climate, and the Environment(2018)](Atmospheric-physics/C.-Donald-Ahrens,-Robert-Henson-Meteorology-Today-An-Introduction-to-Weather,-Climate,-and-the-Environment-Cengage-Learning-(2018).pdf)
 - [Wallace-Hobbs-Atmospheric-Science]([Atmospheric-physics/Wallace-Hobbs-Atmospheric-science.pdf)
-- [大气物理学-盛裴轩](Atmospheric-physics/大气物理学-盛裴轩.pdf)
+- [大气物理学-盛裴轩](链接：https://pan.baidu.com/s/1xI15rbZHhLjKzx3CRqRtxg ) 提取码：jp6y
 - [大气科学概论-黄荣辉编](Atmospheric-physics/大气科学概论-黄荣辉编.pdf)
 - [云和降水物理-黄美元](Atmospheric-physics/云和降水物理-黄美元.pdf)
 - [[Kuo-Nan-Liou]-AN-INTRODUCTION-TO-ATMOSPHERIC-RADIATION](Atmospheric-physics/[Kuo-Nan-Liou]-AN-INTRODUCTION-TO-ATMOSPHERIC-RADIATION.pdf)
@@ -91,7 +91,7 @@
 - [Precipitation_and_Measurements_of_Precipitation](Weather-and-Climate/Precipitation_and_Measurements_of_Precipitation.pdf)
 - [Predictability-of-Weather-and-Climate](Weather-and-Climate/Predictability-of-Weather-and-Climate.pdf)
 - [Regional-Climate-Studies-of-China](Weather-and-Climate/Regional-Climate-Studies-of-China.pdf)
-- [Severe-Convective-Storms](Weather-and-Climate/Severe-Convective-Storms.pdf)
+- [Severe-Convective-Storms](链接：https://pan.baidu.com/s/17Enhf4oiNFkp0fOXp-7KxQ) 提取码：wjos
 - [Synoptic-and-Dynamic-Climatology](Weather-and-Climate/Synoptic-and-Dynamic-Climatology.pdf)
 - [The-Asian-monsoon](Weather-and-Climate/The-Asian-monsoon.pdf)
 - [The-Encyclopedia-of-World-Climatology](Weather-and-Climate/The-Encyclopedia-of-World-Climatology.pdf)
@@ -154,7 +154,7 @@
 - [Statistical-Data-Analysis-for-Ocean-and-Atmospheric-Sciences](Mathematical-Methods/Statistical-Data-Analysis-for-Ocean-and-Atmospheric-Sciences.pdf)
 - [应用气象统计](Mathematical-Methods/应用气象统计.pdf)
 - [气象数据分析方法合集](Mathematical-Methods/气象数据分析方法合集.pdf)
-- [气象数据统计分析方法-黄嘉佑](Mathematical-Methods/气象数据统计分析方法-黄嘉佑.pdf)
+- [气象数据统计分析方法-黄嘉佑](链接：https://pan.baidu.com/s/1RIsk6DfrNZXHCTXkUuhmvg ) 提取码：sg91
 - [气象统计预报](Mathematical-Methods/气象统计预报.pdf)
 - [小波分析十讲](Mathematical-Methods/小波分析十讲.pdf)
 - [黄嘉佑气象统计分析与预报方法](Mathematical-Methods/黄嘉佑气象统计分析与预报方法.pdf)
