@@ -1,9 +1,9 @@
 # [Meteorological-Books](https://github.com/PhilosopherZ/Meteorological-Books)
 >   [我的博客](https://philosopherz.github.io/) 
 >
->   zhangzhe@mail.iap.ac.cn & 1348729333@qq.com 
+>   zhangzhe@mail.iap.ac.cn 
 >
->   如果有其他问题或学术交流可微信（ilhelium）联系 
+>   如果有其他问题或学术交流可微信（ilhelium）联系   
 >   本内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。  
 >   “我有一壶酒，足以慰风尘。尽倾江海里，赠饮天下人”
 >
