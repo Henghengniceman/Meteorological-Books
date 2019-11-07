@@ -3,7 +3,7 @@
 >
 >   zhangzhe@mail.iap.ac.cn 
 >
->   如果有其他问题或学术交流可微信（ilhelium）联系   
+>   如果有其他问题或学术交流，诚挚欢迎  
 >   本内容仅供学习参考，未经允许，请勿用于任何商业用途包括微信公众号等平台的发布。  
 >   “我有一壶酒，足以慰风尘。尽倾江海里，赠饮天下人”
 >
@@ -114,7 +114,7 @@
 - [现代天气预报教程](Weather-and-Climate/现代天气预报教程.pdf)
 - [预报员手册](Weather-and-Climate/预报员手册.pdf)
 - [中尺度天气原理和预报-张玉玲-气象出版社](Weather-and-Climate/中尺度天气原理和预报-张玉玲-气象出版社.pdf)
-- [](Weather-and-Climate/.pdf)
+- [中国历朝气候变化](Weather-and-Climate/中国历朝气候变化.pdf)-2019.11.07
 - [](Weather-and-Climate/.pdf)
 - [](Weather-and-Climate/.pdf)
 
