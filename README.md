@@ -123,6 +123,11 @@
 - [地球物理流体动力学数学理论导论-弗里德兰德](Geophysical-Fluid-Mechanics/地球物理流体动力学数学理论导论-弗里德兰德.pdf)
 - [Introduction-to-Geophysical-Fluid-Dynamics-Physical-and-Numerical-Aspects(2011)](Geophysical-Fluid-Mechanics/Introduction-to-Geophysical-Fluid-Dynamics-Physical-and-Numerical-Aspects(2011).pdf)
 - [Introduction-to-Geophysical-Fluid-Dynamics-Physical-and-Numerical-Aspects](Geophysical-Fluid-Mechanics/Introduction-to-Geophysical-Fluid-Dynamics-Physical-and-Numerical-Aspects.pdf)
+- [](Geophysical-Fluid-Mechanics/.pdf)
+- [HANDBOOK OF GEOPHYSICS AND SPACE ENVIRONMENTS](Geophysical-Fluid-Mechanics/HANDBOOK OF GEOPHYSICS AND SPACE ENVIRONMENTS.pdf)
+
+
+
 
 ## Atmosphere-and-Ocean (大气与海洋)
 - [海洋流体动力学基础](Atmosphere-and-Ocean/海洋流体动力学基础.pdf)
